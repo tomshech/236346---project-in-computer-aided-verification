@@ -1,7 +1,7 @@
 Description:
 
 I will do a (mini) facebook/slack-like app.
-Each user will have his own friend and will be able to see their posts.
+Each user will have his own friends and will be able to see their posts.
 Users will be able to both text other friend privately and open multiple users conversations. 
 Moreover users will be able to post messages, and also comment their friends' posts.
 
